@@ -1,0 +1,55 @@
+{
+	"variables": [],
+	"info": {
+		"name": "4lab",
+		"_postman_id": "ed7a17ea-89c2-5d87-7705-730bae1d7512",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Rozetka_Get_AntistressToy",
+			"request": {
+				"url": "https://rozetka.com.ua/316766626/p316766626/",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Rozetke_Get_WrongKey",
+			"request": {
+				"url": "https://rozetka.com.ua/3167666uuu26/p316766626/",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Rozetka_Get_MaxWrongKey",
+			"request": {
+				"url": "https://rozetka.com.ua/314gjkjd67666oo26/p3167kkgfcvbn66626/",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Rozetka_Delete",
+			"request": {
+				"url": "https://rozetka.com.ua/316766626/p316766626/",
+				"method": "DELETE",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
